@@ -1,0 +1,73 @@
+* [33mcommit 1740aadbdfd379a1548cb364e76a4ad57a03d5b2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[31m|[m Date:   Tue Apr 4 12:18:42 2023 -0500
+[31m|[m 
+[31m|[m     git login v2
+[31m|[m   
+*   [33mcommit 1f2788e0a6e1bec84662a57cccb1f7779a13e171[m
+[32m|[m[33m\[m  Merge: 7853eef 64cbdcc
+[32m|[m [33m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 4 12:07:10 2023 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     solucion conflicto
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 64cbdccd7972d0f3d425e3864a329f0f1a0621a7[m
+[32m|[m [33m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 4 11:59:25 2023 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     sin los cambios del login
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 7853eef8ac227dbda440760c00c091d81f2b2006[m
+[33m|[m [33m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[33m|[m [33m|[m Date:   Tue Apr 4 11:57:43 2023 -0500
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     cambios desde el login
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 076a381cd928d35c5f2662e22440ed701430ca80[m
+[34m|[m[33m\[m[33m|[m Merge: 384c1f6 1bdcc0e
+[34m|[m [33m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[34m|[m [33m|[m Date:   Tue Apr 4 11:51:27 2023 -0500
+[34m|[m [33m|[m 
+[34m|[m [33m|[m     Merge branch 'main' into login
+[34m|[m [33m|[m 
+[34m|[m * [33mcommit 1bdcc0eca937b9af32d18f5f4695401e9bb53748[m
+[34m|[m [35m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[34m|[m [35m|[m Date:   Tue Apr 4 11:45:45 2023 -0500
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     correccion al commit que no subio con el login
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 384c1f6a7a81df566f2e66ee7130915150c4ff35[m
+[35m|[m[35m/[m  Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[35m|[m   Date:   Tue Apr 4 11:39:57 2023 -0500
+[35m|[m   
+[35m|[m       el login
+[35m|[m 
+* [33mcommit 01c3430815169dadcdea25b414e7458bceaffe80[m
+[35m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[35m|[m Date:   Tue Apr 4 11:22:47 2023 -0500
+[35m|[m 
+[35m|[m     Este es el quinto commit
+[35m|[m 
+* [33mcommit 068f82e71c84af6920f7fe3922886027010f4ff5[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+[35m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[35m|[m Date:   Tue Apr 4 10:39:07 2023 -0500
+[35m|[m 
+[35m|[m      se añade el gitignore al repositorio
+[35m|[m 
+* [33mcommit f538e6f1b4749571e353e45f71759dd9ffbf2648[m
+[35m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[35m|[m Date:   Mon Apr 3 16:39:07 2023 -0500
+[35m|[m 
+[35m|[m     otro commit 3
+[35m|[m 
+* [33mcommit a60a4823ac61170cf41435c070d57c8015f88a3a[m
+[35m|[m Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+[35m|[m Date:   Mon Apr 3 16:23:16 2023 -0500
+[35m|[m 
+[35m|[m     Este es el segundo commit
+[35m|[m 
+* [33mcommit 0be37b62f8f56c8c7b95d41b675fc2699a61b2db[m
+  Author: Edwardcm07 <ingeduarcanomontoya@gmail.com>
+  Date:   Mon Apr 3 16:19:43 2023 -0500
+  
+      Este es mi primer commit
